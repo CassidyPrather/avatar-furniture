@@ -96,5 +96,7 @@ Assets/PackageMakerWindowData.asset*
 
 ## Assets
 
+Assets/WorldSync.meta
+Assets/WorldSync/*
 Assets/XR.meta
 Assets/XR/*
