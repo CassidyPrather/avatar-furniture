@@ -93,6 +93,8 @@ Assets/PackageMakerWindowData.asset*
 # Me
 
 .vsconfig
-Assets/*
-!Assets/CassidyCo.meta
-!Assets/CassidyCo/*
+
+## Assets
+
+Assets/XR.meta
+Assets/XR/*
