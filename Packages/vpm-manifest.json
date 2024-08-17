@@ -1,1 +1,69 @@
-{"dependencies": {}, "locked": {}}
+{
+  "dependencies": {
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.9.1"
+    },
+    "com.vrchat.avatars": {
+      "version": "3.7.0"
+    },
+    "com.vrcfury.vrcfury": {
+      "version": "1.1003.0"
+    },
+    "dev.vrlabs.world-constraint": {
+      "version": "1.2.4"
+    },
+    "com.dreadscripts.controllereditor": {
+      "version": "3.3.2"
+    },
+    "com.dreadscripts.hierarchyplus": {
+      "version": "1.3.0"
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.29"
+    }
+  },
+  "locked": {
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.9.1",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.5.2 < 3.7.X"
+      }
+    },
+    "com.vrchat.avatars": {
+      "version": "3.7.0",
+      "dependencies": {
+        "com.vrchat.base": "3.7.0"
+      }
+    },
+    "com.vrchat.base": {
+      "version": "3.7.0",
+      "dependencies": {}
+    },
+    "com.vrcfury.vrcfury": {
+      "version": "1.1003.0",
+      "dependencies": {}
+    },
+    "dev.vrlabs.world-constraint": {
+      "version": "1.2.4",
+      "dependencies": {
+        "dev.vrlabs.instancer": ">=1.0.2"
+      }
+    },
+    "dev.vrlabs.instancer": {
+      "version": "1.0.2",
+      "dependencies": {}
+    },
+    "com.dreadscripts.controllereditor": {
+      "version": "3.3.2",
+      "dependencies": {}
+    },
+    "com.dreadscripts.hierarchyplus": {
+      "version": "1.3.0",
+      "dependencies": {}
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.29",
+      "dependencies": {}
+    }
+  }
+}
