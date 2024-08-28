@@ -1,7 +1,7 @@
 {
   "name": "vrc.cassidyco.avatar-furniture",
   "displayName": "Avatar Furniture",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "unity": "2022.3",
   "description": "Feature-rich infrastructure for environmental-style props on avatars",
   "vrchatVersion": "2022.1.1",
