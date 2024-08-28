@@ -1,0 +1,435 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &417101881211266179
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 977633525640060219, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      propertyPath: m_Name
+      value: SyncFurniture
+      objectReference: {fileID: 0}
+    - target: {fileID: 1604196870962043024, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 1604196870962043024, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 1604196870962043024, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 2240268625468038304, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      propertyPath: m_Name
+      value: Object
+      objectReference: {fileID: 0}
+    - target: {fileID: 2598458331930136744, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -1926403951900781465, guid: 4da93a0659dfb8342af077954fb4a2d6,
+        type: 3}
+    - target: {fileID: 4734791411673593634, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4734791411673593634, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4734791411673593634, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4734791411673593634, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4734791411673593634, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4734791411673593634, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4734791411673593634, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4734791411673593634, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4734791411673593634, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4734791411673593634, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6892671192297467968, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7066986592447727319, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ae8f75eaaac65b5489f677e4806b291c, type: 2}
+    m_RemovedComponents:
+    - {fileID: 4587651973932819972, guid: bd6349bcb96f29446812c30f79ad33fb, type: 3}
+    - {fileID: 6610182093391663768, guid: bd6349bcb96f29446812c30f79ad33fb, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 977633525640060219, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3111853291176740914}
+    - targetCorrespondingSourceObject: {fileID: 977633525640060219, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2957504434024168673}
+    - targetCorrespondingSourceObject: {fileID: 2240268625468038304, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5641114622853731589}
+    - targetCorrespondingSourceObject: {fileID: 2240268625468038304, guid: bd6349bcb96f29446812c30f79ad33fb,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5039499449829003260}
+  m_SourcePrefab: {fileID: 100100000, guid: bd6349bcb96f29446812c30f79ad33fb, type: 3}
+--- !u!1 &601397059441359288 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 977633525640060219, guid: bd6349bcb96f29446812c30f79ad33fb,
+    type: 3}
+  m_PrefabInstance: {fileID: 417101881211266179}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3111853291176740914
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 601397059441359288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9e94e501a2d4c95bff3d5601013d923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  unityVersion: 2022.3.22f1
+  vrcfuryVersion: 1.1003.0
+  somethingIsBroken: 0
+  config:
+    features: []
+  content:
+    rid: 3592817148264972288
+  references:
+    version: 2
+    RefIds:
+    - rid: 3592817148264972288
+      type: {class: FullController, ns: VF.Model.Feature, asm: VRCFury}
+      data:
+        version: 4
+        controllers:
+        - controller:
+            version: 1
+            fileID: 0
+            guid: 
+            id: 3ef52cc74f435b64780aa275a960758e|Assets/WorldSync/Animator/WorldSync_Sender.controller
+            objRef: {fileID: 9100000, guid: 3ef52cc74f435b64780aa275a960758e, type: 2}
+          type: 5
+        menus:
+        - menu:
+            version: 1
+            fileID: 0
+            guid: 
+            id: a5899fbb4d69f1449a9cb15e59d2a558|Packages/vrc.cassidyco.avatar-furniture/Animation/AV3/SyncFurnitureMenu.asset
+            objRef: {fileID: 11400000, guid: a5899fbb4d69f1449a9cb15e59d2a558, type: 2}
+          prefix: Sync Furniture
+        prms:
+        - parameters:
+            version: 1
+            fileID: 0
+            guid: 
+            id: 4a4020780fa46c44e8d1e265c3f3c522|Assets/WorldSync/WorldSync Params.asset
+            objRef: {fileID: 11400000, guid: 4a4020780fa46c44e8d1e265c3f3c522, type: 2}
+        smoothedPrms: []
+        globalParams: []
+        allNonsyncedAreGlobal: 0
+        ignoreSaved: 0
+        toggleParam: 
+        rootObjOverride: {fileID: 0}
+        rootBindingsApplyToAvatar: 0
+        rewriteBindings: []
+        allowMissingAssets: 0
+        controller:
+          version: 1
+          fileID: 0
+          guid: 
+          id: 
+          objRef: {fileID: 0}
+        menu:
+          version: 1
+          fileID: 0
+          guid: 
+          id: 
+          objRef: {fileID: 0}
+        parameters:
+          version: 1
+          fileID: 0
+          guid: 
+          id: 
+          objRef: {fileID: 0}
+        submenu: 
+        removePrefixes: []
+        addPrefix: 
+        useSecurityForToggle: 0
+--- !u!114 &2957504434024168673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 601397059441359288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9e94e501a2d4c95bff3d5601013d923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  unityVersion: 2022.3.22f1
+  vrcfuryVersion: 1.1003.0
+  somethingIsBroken: 0
+  config:
+    features: []
+  content:
+    rid: 3561542896025337856
+  references:
+    version: 2
+    RefIds:
+    - rid: 3561542896025337856
+      type: {class: SetIcon, ns: VF.Model.Feature, asm: VRCFury}
+      data:
+        version: 1
+        path: Sync Furniture
+        icon:
+          version: 1
+          fileID: 0
+          guid: 
+          id: 5f7f5979c7c73b143be456b0b8a00e65|Packages/vrc.cassidyco.avatar-furniture/Textures/Icons/armchair.png
+          objRef: {fileID: 2800000, guid: 5f7f5979c7c73b143be456b0b8a00e65, type: 3}
+--- !u!1 &1936230637086652451 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2240268625468038304, guid: bd6349bcb96f29446812c30f79ad33fb,
+    type: 3}
+  m_PrefabInstance: {fileID: 417101881211266179}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5641114622853731589
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1936230637086652451}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9e94e501a2d4c95bff3d5601013d923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  unityVersion: 2022.3.22f1
+  vrcfuryVersion: 1.1003.0
+  somethingIsBroken: 0
+  config:
+    features: []
+  content:
+    rid: 3561542895432892419
+  references:
+    version: 2
+    RefIds:
+    - rid: 3561542895432892419
+      type: {class: Toggle, ns: VF.Model.Feature, asm: VRCFury}
+      data:
+        version: 3
+        name: Sync Furniture/Preview Mode
+        state:
+          actions:
+          - rid: 3561543099383545856
+        saved: 0
+        slider: 0
+        sliderInactiveAtZero: 0
+        securityEnabled: 0
+        defaultOn: 0
+        includeInRest: 0
+        exclusiveOffState: 0
+        enableExclusiveTag: 0
+        exclusiveTag: 
+        resetPhysbones: []
+        hasExitTime: 0
+        enableIcon: 1
+        icon:
+          version: 1
+          fileID: 0
+          guid: 
+          id: 60ab92eedaf05d8459b2a80f21d68234|Packages/vrc.cassidyco.avatar-furniture/Textures/Icons/magnifying-glass.png
+          objRef: {fileID: 2800000, guid: 60ab92eedaf05d8459b2a80f21d68234, type: 3}
+        enableDriveGlobalParam: 0
+        driveGlobalParam: 
+        separateLocal: 1
+        localState:
+          actions:
+          - rid: 3561543099383545857
+        hasTransition: 0
+        transitionStateIn:
+          actions: []
+        transitionStateOut:
+          actions: []
+        transitionTimeIn: 0
+        transitionTimeOut: 0
+        localTransitionStateIn:
+          actions: []
+        localTransitionStateOut:
+          actions: []
+        localTransitionTimeIn: 0
+        localTransitionTimeOut: 0
+        simpleOutTransition: 1
+        defaultSliderValue: 0
+        useGlobalParam: 0
+        globalParam: 
+        holdButton: 0
+        invertRestLogic: 0
+    - rid: 3561543099383545856
+      type: {class: ObjectToggleAction, ns: VF.Model.StateAction, asm: VRCFury}
+      data:
+        version: 1
+        desktopActive: 0
+        androidActive: 0
+        obj: {fileID: 1936230637086652451}
+        mode: 1
+    - rid: 3561543099383545857
+      type: {class: MaterialAction, ns: VF.Model.StateAction, asm: VRCFury}
+      data:
+        version: 1
+        desktopActive: 0
+        androidActive: 0
+        obj: {fileID: 0}
+        renderer: {fileID: 7483624883477619284}
+        materialIndex: 0
+        mat:
+          version: 1
+          fileID: 0
+          guid: 
+          id: 1ab0ed876c8c1d3418410da75922fcf4|Packages/vrc.cassidyco.avatar-furniture/Materials/BurgundyHighlight.mat
+          objRef: {fileID: 2100000, guid: 1ab0ed876c8c1d3418410da75922fcf4, type: 2}
+--- !u!114 &5039499449829003260
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1936230637086652451}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9e94e501a2d4c95bff3d5601013d923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  unityVersion: 2022.3.22f1
+  vrcfuryVersion: 1.1003.0
+  somethingIsBroken: 0
+  config:
+    features: []
+  content:
+    rid: 3561543099791441922
+  references:
+    version: 2
+    RefIds:
+    - rid: 3561543099791441922
+      type: {class: Toggle, ns: VF.Model.Feature, asm: VRCFury}
+      data:
+        version: 3
+        name: Sync Furniture/Scale
+        state:
+          actions:
+          - rid: 3561543099791441923
+        saved: 1
+        slider: 1
+        sliderInactiveAtZero: 0
+        securityEnabled: 0
+        defaultOn: 0
+        includeInRest: 0
+        exclusiveOffState: 0
+        enableExclusiveTag: 0
+        exclusiveTag: 
+        resetPhysbones: []
+        hasExitTime: 0
+        enableIcon: 1
+        icon:
+          version: 1
+          fileID: 0
+          guid: 
+          id: 1b005eddb76f8db4fa092e5e10e98d53|Packages/vrc.cassidyco.avatar-furniture/Textures/Icons/resize.png
+          objRef: {fileID: 2800000, guid: 1b005eddb76f8db4fa092e5e10e98d53, type: 3}
+        enableDriveGlobalParam: 0
+        driveGlobalParam: 
+        separateLocal: 0
+        localState:
+          actions: []
+        hasTransition: 0
+        transitionStateIn:
+          actions: []
+        transitionStateOut:
+          actions: []
+        transitionTimeIn: 0
+        transitionTimeOut: 0
+        localTransitionStateIn:
+          actions: []
+        localTransitionStateOut:
+          actions: []
+        localTransitionTimeIn: 0
+        localTransitionTimeOut: 0
+        simpleOutTransition: 1
+        defaultSliderValue: 0.32999998
+        useGlobalParam: 0
+        globalParam: 
+        holdButton: 0
+        invertRestLogic: 0
+    - rid: 3561543099791441923
+      type: {class: ScaleAction, ns: VF.Model.StateAction, asm: VRCFury}
+      data:
+        version: 0
+        desktopActive: 0
+        androidActive: 0
+        obj: {fileID: 1936230637086652451}
+        scale: 5
+--- !u!23 &7483624883477619284 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 7066986592447727319, guid: bd6349bcb96f29446812c30f79ad33fb,
+    type: 3}
+  m_PrefabInstance: {fileID: 417101881211266179}
+  m_PrefabAsset: {fileID: 0}

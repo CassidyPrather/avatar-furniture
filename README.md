@@ -21,6 +21,8 @@ These dependencies must be "drag and dropped" into the root project's asset dire
 2. [Add this package's listing to the VCC.](https://cassidyprather.github.io/avatar-syringe/)
 3. Instantiate prefab of choice on the root of the avatar.
 4. Override parent constraint sources as required/desired with locations on your avatar (e.g. an empty game object with a static offset from your hand for hand-based placement).
+    a. Overwrite all references to "PositionTarget" and "RotationTarget" within the `SyncFurniture` prefab
+    b. Overwrite the second target on "DynamicFurniture/Container" within the `DynamicFurniture` prefab
 
 ## Legal
 
