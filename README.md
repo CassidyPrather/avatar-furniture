@@ -18,7 +18,7 @@ These dependencies must be "drag and dropped" into the root project's asset dire
 ## Installation
 
 1. Install the packages in [#Dependencies](#dependencies)
-2. [Add this package's listing to the VCC.](https://cassidyprather.github.io/avatar-syringe/)
+2. [Add this package's listing to the VCC.](https://cassidyprather.github.io/avatar-furniture/)
 3. Instantiate prefab of choice on the root of the avatar.
 4. Override parent constraint sources as required/desired with locations on your avatar (e.g. a transform in the avatar's hand). *You can also unpack + drag & drop, but ymmv.*
    - `SyncFurniture` prefab: "PositionTarget" and "RotationTarget"
